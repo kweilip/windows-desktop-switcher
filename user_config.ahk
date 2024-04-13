@@ -27,6 +27,8 @@
 ^#l::MoveCurrentWindowToDesktop(4)
 ^#+Right::switchDesktopToRight()
 ^#+Left::switchDesktopToLeft()
+; >+F12:: Reload
+
 
 ; CapsLock & 1::switchDesktopByNumber(1)
 ; CapsLock & 2::switchDesktopByNumber(2)
